@@ -231,20 +231,6 @@ span.headingLogo {
   align-items: center;
 }
 
-.clicked.v {
-  height: 500px;
-  transform: translateX(-50%) rotate(-90deg);
-}
-
-.clicked.l {
-  transform: translateX(-50%) rotate(-270deg);
-  height: 500px;
-}
-
-.clicked.r {
-  transform: translateX(-50%) rotate(0deg);
-  height: 400px;
-}
 
 .rotating-slider {
   height: 700px;
